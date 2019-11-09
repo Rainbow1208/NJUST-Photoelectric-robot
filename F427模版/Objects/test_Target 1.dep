@@ -1,0 +1,2 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\User\startup_stm32f427_437xx.s)(0x562673BA)(--cpu Cortex-M4.fp -g --apcs=interwork -I D:\RM¡ª¡ªÔÆÌ¨\F427Ä£°æ\RTE-I C:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include-I C:\Keil\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 514" --pd "STM32F427_437xx SETA 1"--list .\listings\startup_stm32f427_437xx.lst --xref -o .\objects\startup_stm32f427_437xx.o --depend .\objects\startup_stm32f427_437xx.d)
